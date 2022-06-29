@@ -1,5 +1,5 @@
-from scale import G_major
+from classes.scale import Scale
 
 
 def test_scale_exists():
-    assert G_major
+    assert Scale

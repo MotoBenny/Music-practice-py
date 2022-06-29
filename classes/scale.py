@@ -1,5 +1,5 @@
 
 
-class G_major():
+class Scale():
     def __init__(self):
         pass

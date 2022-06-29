@@ -1,4 +1,4 @@
-from fretboard import Fretboard
+from classes.fretboard import Fretboard
 
 
 def test_fretboard_exists():
